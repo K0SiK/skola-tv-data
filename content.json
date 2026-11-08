@@ -1,0 +1,3678 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "id": "cestina",
+      "title": "Český jazyk",
+      "emoji": "📚",
+      "color": "#2563EB",
+      "topics": [
+        {
+          "id": "znamenka",
+          "title": "Doplň znaménko",
+          "description": "Doplň na konec věty tečku, otazník nebo vykřičník.",
+          "roundSize": 10,
+          "grading": true,
+          "questions": [
+            {
+              "prompt": "V trávě tiše leze malý hlemýžď ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": ".",
+              "explanation": "Je to věta oznamovací.",
+              "hint": "Jen oznamujeme, co dělá hlemýžď. Stačí si v duchu říct: AHA."
+            },
+            {
+              "prompt": "Na poličce stojí model policejního auta ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": ".",
+              "explanation": "Je to věta oznamovací.",
+              "hint": "Zpráva o hračce. Na nic se neptáme, píšeme tečku."
+            },
+            {
+              "prompt": "Dnes máme k svačině sladký banán ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": ".",
+              "explanation": "Je to věta oznamovací.",
+              "hint": "Oznamujeme jídlo. Nečekáme odpověď, patří sem tečka."
+            },
+            {
+              "prompt": "Ráno na louce ležela hustá bílá mlha ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": ".",
+              "explanation": "Je to věta oznamovací.",
+              "hint": "Hlásíme zprávu o počasí. Píšeme tečku."
+            },
+            {
+              "prompt": "Náš křeček v noci vesele běhá v kolotoči ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": ".",
+              "explanation": "Je to věta oznamovací.",
+              "hint": "Popisujeme zvířátko. Stačí si říct AHA."
+            },
+            {
+              "prompt": "V penálu mám dvě ořezané tužky ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": ".",
+              "explanation": "Je to věta oznamovací.",
+              "hint": "Jen oznamujeme, co máme v pouzdře. Píšeme tečku."
+            },
+            {
+              "prompt": "Pan školník nese do ředitelny velký balík ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": ".",
+              "explanation": "Je to věta oznamovací.",
+              "hint": "Konstatujeme událost ve škole. Patří sem tečka."
+            },
+            {
+              "prompt": "Na rybníku už přes noc zamrzl tenký led ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": ".",
+              "explanation": "Je to věta oznamovací.",
+              "hint": "Zpráva o ledu na rybníku. Na konci je tečka."
+            },
+            {
+              "prompt": "Kreslím si do sešitu velikého draka ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": ".",
+              "explanation": "Je to věta oznamovací.",
+              "hint": "Říkáme, co zrovna kreslíme. Píšeme tečku."
+            },
+            {
+              "prompt": "Můj batoh je dnes těžký kvůli knihám ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": ".",
+              "explanation": "Je to věta oznamovací.",
+              "hint": "Oznamujeme fakt o batohu. Patří sem tečka."
+            },
+            {
+              "prompt": "Za oknem krmíme sýkorky slunečnicí ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": ".",
+              "explanation": "Je to věta oznamovací.",
+              "hint": "Vyprávíme o krmení ptáčků. Píšeme tečku."
+            },
+            {
+              "prompt": "Lesní pěšina vede přímo k myslivně ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": ".",
+              "explanation": "Je to věta oznamovací.",
+              "hint": "Popisujeme cestu. Na nic se neptáme, tečka."
+            },
+            {
+              "prompt": "Máš v penálu náhradní gumu na mazání ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "?",
+              "explanation": "Je to věta tázací.",
+              "hint": "Můžeš na to odpovědět ANO nebo NE. Je to otázka!"
+            },
+            {
+              "prompt": "Pojedeš v sobotu s námi do bazénu ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "?",
+              "explanation": "Je to věta tázací.",
+              "hint": "Zjišťujeme plány (ANO/NE). Na konci píšeme otazník."
+            },
+            {
+              "prompt": "Viděl jsi ráno na plotě sedět veverku ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "?",
+              "explanation": "Je to věta tázací.",
+              "hint": "Čeká se odpověď ANO nebo NE. Patří sem otazník."
+            },
+            {
+              "prompt": "Znáš přesná pravidla této nové stolní hry ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "?",
+              "explanation": "Je to věta tázací.",
+              "hint": "Ptáme se na znalost (ANO/NE). Píšeme otazník."
+            },
+            {
+              "prompt": "Půjčíš mi o velké přestávce to modré autíčko ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "?",
+              "explanation": "Je to věta tázací.",
+              "hint": "Prosba formou otázky (ANO/NE). Patří sem otazník."
+            },
+            {
+              "prompt": "Chutná ti teplé kakao s piškoty ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "?",
+              "explanation": "Je to věta tázací.",
+              "hint": "Zjišťujeme chuť (ANO/NE). Píšeme otazník."
+            },
+            {
+              "prompt": "Kdo sedí ve třídě v první lavici u okna ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "?",
+              "explanation": "Je to věta tázací.",
+              "hint": "Začíná tázacím slovem KDO. Hned píšeme otazník."
+            },
+            {
+              "prompt": "Kde leží moje teplá zimní čepice ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "?",
+              "explanation": "Je to věta tázací.",
+              "hint": "Začíná tázacím slovem KDE. Hledáme věc, patří sem otazník."
+            },
+            {
+              "prompt": "Kdy přesně začíná dnešní fotbalový trénink ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "?",
+              "explanation": "Je to věta tázací.",
+              "hint": "Začíná tázacím slovem KDY. Ptáme se na čas, píšeme otazník."
+            },
+            {
+              "prompt": "Co si zítra vezmeš na sebe do školy ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "?",
+              "explanation": "Je to věta tázací.",
+              "hint": "Začíná tázacím slovem CO. Je to otázka, dáváme otazník."
+            },
+            {
+              "prompt": "Proč dnes nepřijel ten žlutý školní autobus ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "?",
+              "explanation": "Je to věta tázací.",
+              "hint": "Začíná tázacím slovem PROČ. Zjišťujeme důvod, píšeme otazník."
+            },
+            {
+              "prompt": "Kolik pastelek se vejde do tohoto pouzdra ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "?",
+              "explanation": "Je to věta tázací.",
+              "hint": "Začíná tázacím slovem KOLIK. Chceme vědět číslo, patří otazník."
+            },
+            {
+              "prompt": "Polož tu horkou pánvičku opatrně na podložku ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "!",
+              "explanation": "Je to věta rozkazovací.",
+              "hint": "Důrazný povel pro bezpečnost. Píšeme vykřičník!"
+            },
+            {
+              "prompt": "Zavaž si pořádně tkaničku u levé boty ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "!",
+              "explanation": "Je to věta rozkazovací.",
+              "hint": "Povel, co máš udělat. Patří sem vykřičník."
+            },
+            {
+              "prompt": "Pozdrav slušně na chodbě paní sousedku ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "!",
+              "explanation": "Je to věta rozkazovací.",
+              "hint": "Pokyn k chování / rozkaz. Píšeme vykřičník."
+            },
+            {
+              "prompt": "Ať se nám dnes vydaří celý školní výlet ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "!",
+              "explanation": "Je to věta přací.",
+              "hint": "Přejeme si úspěch (začíná AŤ). Píšeme vykřičník."
+            },
+            {
+              "prompt": "Kéž by v tělocviku pan učitel vybral vybíjenou ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "!",
+              "explanation": "Je to věta přací.",
+              "hint": "Vyslovujeme přání (KÉŽ BY). Patří sem vykřičník."
+            },
+            {
+              "prompt": "Kéž by už byl Miky zdravý a plný síly ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "!",
+              "explanation": "Je to věta přací.",
+              "hint": "Osobní přání (KÉŽ BY). Věta končí vykřičníkem."
+            },
+            {
+              "prompt": "Babička peče v kuchyni čerstvý tvarohový koláč ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": ".",
+              "explanation": "Je to věta oznamovací.",
+              "hint": "Jen oznamujeme, co se děje. Stačí si v duchu říct: AHA."
+            },
+            {
+              "prompt": "Na obloze letí velký stříbrný dopravní letoun ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": ".",
+              "explanation": "Je to věta oznamovací.",
+              "hint": "Jen oznamujeme, co se děje. Stačí si v duchu říct: AHA."
+            },
+            {
+              "prompt": "Včera jsme společně navštívili místní starou zoo ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": ".",
+              "explanation": "Je to věta oznamovací.",
+              "hint": "Jen oznamujeme, co se stalo. Stačí si v duchu říct: AHA."
+            },
+            {
+              "prompt": "Na zahradě rozkvetly první jarní žluté petrklíče ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": ".",
+              "explanation": "Je to věta oznamovací.",
+              "hint": "Jen oznamujeme, co se stalo. Stačí si v duchu říct: AHA."
+            },
+            {
+              "prompt": "Maminka schovala klíče do malé černé tašky ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": ".",
+              "explanation": "Je to věta oznamovací.",
+              "hint": "Jen oznamujeme, co se stalo. Stačí si v duchu říct: AHA."
+            },
+            {
+              "prompt": "Táta právě opravuje naše staré červené kolo ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": ".",
+              "explanation": "Je to věta oznamovací.",
+              "hint": "Jen oznamujeme, co se děje. Stačí si v duchu říct: AHA."
+            },
+            {
+              "prompt": "Pes hlasitě štěká na kolemjdoucího pošťáka ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": ".",
+              "explanation": "Je to věta oznamovací.",
+              "hint": "Jen oznamujeme, co se děje. Stačí si v duchu říct: AHA."
+            },
+            {
+              "prompt": "Dědeček čte v křesle zajímavou knihu o přírodě ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": ".",
+              "explanation": "Je to věta oznamovací.",
+              "hint": "Jen oznamujeme, co se děje. Stačí si v duchu říct: AHA."
+            },
+            {
+              "prompt": "V našem rybníku plave sedm malých kachniček ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": ".",
+              "explanation": "Je to věta oznamovací.",
+              "hint": "Jen oznamujeme, co se děje. Stačí si v duchu říct: AHA."
+            },
+            {
+              "prompt": "Sestra si staví vysokou věž z dřevěných kostek ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": ".",
+              "explanation": "Je to věta oznamovací.",
+              "hint": "Jen oznamujeme, co se děje. Stačí si v duchu říct: AHA."
+            },
+            {
+              "prompt": "V lese jsme našli plný koš hnědých hříbků ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": ".",
+              "explanation": "Je to věta oznamovací.",
+              "hint": "Jen oznamujeme, co se stalo. Stačí si v duchu říct: AHA."
+            },
+            {
+              "prompt": "Malá kočka spí na měkkém vlněném koberci ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": ".",
+              "explanation": "Je to věta oznamovací.",
+              "hint": "Jen oznamujeme, co se děje. Stačí si v duchu říct: AHA."
+            },
+            {
+              "prompt": "Do naší třídy přišel nový žák jménem Petr ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": ".",
+              "explanation": "Je to věta oznamovací.",
+              "hint": "Jen oznamujeme, co se stalo. Stačí si v duchu říct: AHA."
+            },
+            {
+              "prompt": "V parku kvete mnoho barevných jarních květin ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": ".",
+              "explanation": "Je to věta oznamovací.",
+              "hint": "Jen oznamujeme, co se děje. Stačí si v duchu říct: AHA."
+            },
+            {
+              "prompt": "Na stolu leží nový sešit a modré pero ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": ".",
+              "explanation": "Je to věta oznamovací.",
+              "hint": "Jen oznamujeme, co se děje. Stačí si v duchu říct: AHA."
+            },
+            {
+              "prompt": "Děti hlasitě zpívají veselou písničku o zvířátkách ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": ".",
+              "explanation": "Je to věta oznamovací.",
+              "hint": "Jen oznamujeme, co se děje. Stačí si v duchu říct: AHA."
+            },
+            {
+              "prompt": "V kuchyni voní čerstvě upečený babiččin chléb ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": ".",
+              "explanation": "Je to věta oznamovací.",
+              "hint": "Jen oznamujeme, co se děje. Stačí si v duchu říct: AHA."
+            },
+            {
+              "prompt": "Na stromě zraje spousta sladkých červených jablek ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": ".",
+              "explanation": "Je to věta oznamovací.",
+              "hint": "Jen oznamujeme, co se děje. Stačí si v duchu říct: AHA."
+            },
+            {
+              "prompt": "Zítra navštívíme babičku a dědečka na venkově ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": ".",
+              "explanation": "Je to věta oznamovací.",
+              "hint": "Jen oznamujeme, co se stane. Stačí si v duchu říct: AHA."
+            },
+            {
+              "prompt": "Ve skříni visí moje nová zimní bunda ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": ".",
+              "explanation": "Je to věta oznamovací.",
+              "hint": "Jen oznamujeme, co se děje. Stačí si v duchu říct: AHA."
+            },
+            {
+              "prompt": "Na stole leží tři zralé žluté banány ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": ".",
+              "explanation": "Je to věta oznamovací.",
+              "hint": "Jen oznamujeme, co se děje. Stačí si v duchu říct: AHA."
+            },
+            {
+              "prompt": "V potoce teče studená a čirá voda ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": ".",
+              "explanation": "Je to věta oznamovací.",
+              "hint": "Jen oznamujeme, co se děje. Stačí si v duchu říct: AHA."
+            },
+            {
+              "prompt": "Naše třída vyhrála první místo ve fotbale ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": ".",
+              "explanation": "Je to věta oznamovací.",
+              "hint": "Jen oznamujeme, co se stalo. Stačí si v duchu říct: AHA."
+            },
+            {
+              "prompt": "V noci svítil na nebi jasný měsíc ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": ".",
+              "explanation": "Je to věta oznamovací.",
+              "hint": "Jen oznamujeme, co se stalo. Stačí si v duchu říct: AHA."
+            },
+            {
+              "prompt": "Bratr nakreslil krásný obrázek rybářské lodi ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": ".",
+              "explanation": "Je to věta oznamovací.",
+              "hint": "Jen oznamujeme, co se stalo. Stačí si v duchu říct: AHA."
+            },
+            {
+              "prompt": "Najdeš v této velké mapě naše hlavní město ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "?",
+              "explanation": "Je to věta tázací.",
+              "hint": "Ptáme se, odpovědí je ANO nebo NE."
+            },
+            {
+              "prompt": "Přijdeš dnes odpoledne za mnou na hřiště ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "?",
+              "explanation": "Je to věta tázací.",
+              "hint": "Ptáme se, odpovědí je ANO nebo NE."
+            },
+            {
+              "prompt": "Které zvíře má na těle černé pruhy ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "?",
+              "explanation": "Je to věta tázací.",
+              "hint": "Ptáme se pomocí tázacího slova KTERÉ."
+            },
+            {
+              "prompt": "Jak se jmenuje tvůj nejlepší kamarád ve škole ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "?",
+              "explanation": "Je to věta tázací.",
+              "hint": "Ptáme se pomocí tázacího slova JAK."
+            },
+            {
+              "prompt": "Kolik hodin ukazují ty malé nástěnné hodiny ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "?",
+              "explanation": "Je to věta tázací.",
+              "hint": "Ptáme se pomocí tázacího slova KOLIK."
+            },
+            {
+              "prompt": "Kdo schoval moje čisté domácí papuče ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "?",
+              "explanation": "Je to věta tázací.",
+              "hint": "Ptáme se pomocí tázacího slova KDO."
+            },
+            {
+              "prompt": "Půjdeš zítra s námi nakoupit do obchodu ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "?",
+              "explanation": "Je to věta tázací.",
+              "hint": "Ptáme se, odpovědí je ANO nebo NE."
+            },
+            {
+              "prompt": "Kam jsi schoval ty nové dřevěné pastelky ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "?",
+              "explanation": "Je to věta tázací.",
+              "hint": "Ptáme se pomocí tázacího slova KAM."
+            },
+            {
+              "prompt": "Proč dnes venku prší a fouká vítr ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "?",
+              "explanation": "Je to věta tázací.",
+              "hint": "Ptáme se pomocí tázacího slova PROČ."
+            },
+            {
+              "prompt": "Kdy se vrátíme z dnešního velkého výletu ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "?",
+              "explanation": "Je to věta tázací.",
+              "hint": "Ptáme se pomocí tázacího slova KDY."
+            },
+            {
+              "prompt": "Co budeme mít dnes dobrého k obědu ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "?",
+              "explanation": "Je to věta tázací.",
+              "hint": "Ptáme se pomocí tázacího slova CO."
+            },
+            {
+              "prompt": "Máš rád jahodovou zmrzlinu s čokoládou ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "?",
+              "explanation": "Je to věta tázací.",
+              "hint": "Ptáme se, odpovědí je ANO nebo NE."
+            },
+            {
+              "prompt": "Budeš si hrát odpoledne na zahradě ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "?",
+              "explanation": "Je to věta tázací.",
+              "hint": "Ptáme se, odpovědí je ANO nebo NE."
+            },
+            {
+              "prompt": "Kdo namaloval ten krásný velký obrázek ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "?",
+              "explanation": "Je to věta tázací.",
+              "hint": "Ptáme se pomocí tázacího slova KDO."
+            },
+            {
+              "prompt": "Kde je moje nová zelená láhev na pití ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "?",
+              "explanation": "Je to věta tázací.",
+              "hint": "Ptáme se pomocí tázacího slova KDE."
+            },
+            {
+              "prompt": "Kolik dní zbývá do začátku letních prázdnin ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "?",
+              "explanation": "Je to věta tázací.",
+              "hint": "Ptáme se pomocí tázacího slova KOLIK."
+            },
+            {
+              "prompt": "Napíšeš dnes všechny úkoly z matematiky ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "?",
+              "explanation": "Je to věta tázací.",
+              "hint": "Ptáme se, odpovědí je ANO nebo NE."
+            },
+            {
+              "prompt": "Jaká je tvoje nejoblíbenější pohádková postava ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "?",
+              "explanation": "Je to věta tázací.",
+              "hint": "Ptáme se pomocí tázacího slova JAKÁ."
+            },
+            {
+              "prompt": "Proč jsi dnes přišel do školy tak pozdě ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "?",
+              "explanation": "Je to věta tázací.",
+              "hint": "Ptáme se pomocí tázacího slova PROČ."
+            },
+            {
+              "prompt": "Můžu si půjčit tvou novou červenou propisku ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "?",
+              "explanation": "Je to věta tázací.",
+              "hint": "Ptáme se, odpovědí je ANO nebo NE."
+            },
+            {
+              "prompt": "Viděl jsi včera v televizi ten nový film ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "?",
+              "explanation": "Je to věta tázací.",
+              "hint": "Ptáme se, odpovědí je ANO nebo NE."
+            },
+            {
+              "prompt": "Kam poletí ptáci na začátku podzimu ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "?",
+              "explanation": "Je to věta tázací.",
+              "hint": "Ptáme se pomocí tázacího slova KAM."
+            },
+            {
+              "prompt": "Kdy začíná naše oblíbená pohádka v rozhlase ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "?",
+              "explanation": "Je to věta tázací.",
+              "hint": "Ptáme se pomocí tázacího slova KDY."
+            },
+            {
+              "prompt": "Kdo chce pomoci s úklidem naší třídy ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "?",
+              "explanation": "Je to věta tázací.",
+              "hint": "Ptáme se pomocí tázacího slova KDO."
+            },
+            {
+              "prompt": "Co dělá ten malý ježek pod hromadou listí ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "?",
+              "explanation": "Je to věta tázací.",
+              "hint": "Ptáme se pomocí tázacího slova CO."
+            },
+            {
+              "prompt": "Umíš už plavat bez pomoci plaveckého kruhu ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "?",
+              "explanation": "Je to věta tázací.",
+              "hint": "Ptáme se, odpovědí je ANO nebo NE."
+            },
+            {
+              "prompt": "Která pastelka je nejvíce ořezaná ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "?",
+              "explanation": "Je to věta tázací.",
+              "hint": "Ptáme se pomocí tázacího slova KTERÁ."
+            },
+            {
+              "prompt": "Kolik nohou má pavouk na stěně ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "?",
+              "explanation": "Je to věta tázací.",
+              "hint": "Ptáme se pomocí tázacího slova KOLIK."
+            },
+            {
+              "prompt": "Kde jsi koupil ty sladké zralé jahody ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "?",
+              "explanation": "Je to věta tázací.",
+              "hint": "Ptáme se pomocí tázacího slova KDE."
+            },
+            {
+              "prompt": "Chceš jít dnes večer do kina na pohádku ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "?",
+              "explanation": "Je to věta tázací.",
+              "hint": "Ptáme se, odpovědí je ANO nebo NE."
+            },
+            {
+              "prompt": "Jak vysoký je ten starý dub u potoka ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "?",
+              "explanation": "Je to věta tázací.",
+              "hint": "Ptáme se pomocí tázacího slova JAK."
+            },
+            {
+              "prompt": "Proč schovává veverka ořechy do země ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "?",
+              "explanation": "Je to věta tázací.",
+              "hint": "Ptáme se pomocí tázacího slova PROČ."
+            },
+            {
+              "prompt": "Půjčíš mi na chvíli svůj barevný penál ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "?",
+              "explanation": "Je to věta tázací.",
+              "hint": "Ptáme se, odpovědí je ANO nebo NE."
+            },
+            {
+              "prompt": "Kdy se naučíme číst tuto novou knihu ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "?",
+              "explanation": "Je to věta tázací.",
+              "hint": "Ptáme se pomocí tázacího slova KDY."
+            },
+            {
+              "prompt": "Kdo pomůže mamince s nošením nákupní tašky ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "?",
+              "explanation": "Je to věta tázací.",
+              "hint": "Ptáme se pomocí tázacího slova KDO."
+            },
+            {
+              "prompt": "Co znamená to neznámé slovo na tabuli ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "?",
+              "explanation": "Je to věta tázací.",
+              "hint": "Ptáme se pomocí tázacího slova CO."
+            },
+            {
+              "prompt": "Kde leží tvůj ztracený zimní šál ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "?",
+              "explanation": "Je to věta tázací.",
+              "hint": "Ptáme se pomocí tázacího slova KDE."
+            },
+            {
+              "prompt": "Kam odběhl ten malý sousedův pes ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "?",
+              "explanation": "Je to věta tázací.",
+              "hint": "Ptáme se pomocí tázacího slova KAM."
+            },
+            {
+              "prompt": "Budeš zítra snídat teplou krupicovou kaši ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "?",
+              "explanation": "Je to věta tázací.",
+              "hint": "Ptáme se, odpovědí je ANO nebo NE."
+            },
+            {
+              "prompt": "Kolik dětí dnes chybí v naší třídě ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "?",
+              "explanation": "Je to věta tázací.",
+              "hint": "Ptáme se pomocí tázacího slova KOLIK."
+            },
+            {
+              "prompt": "Které roční období máš nejraději ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "?",
+              "explanation": "Je to věta tázací.",
+              "hint": "Ptáme se pomocí tázacího slova KTERÉ."
+            },
+            {
+              "prompt": "Jak dlouho trvá cesta vlakem do Prahy ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "?",
+              "explanation": "Je to věta tázací.",
+              "hint": "Ptáme se pomocí tázacího slova JAK."
+            },
+            {
+              "prompt": "Proč musíme nosit v zimě teplé rukavice ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "?",
+              "explanation": "Je to věta tázací.",
+              "hint": "Ptáme se pomocí tázacího slova PROČ."
+            },
+            {
+              "prompt": "Znáš odpověď na tuto těžkou hádanku ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "?",
+              "explanation": "Je to věta tázací.",
+              "hint": "Ptáme se, odpovědí je ANO nebo NE."
+            },
+            {
+              "prompt": "Kdy bude hotový náš nový školní projekt ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "?",
+              "explanation": "Je to věta tázací.",
+              "hint": "Ptáme se pomocí tázacího slova KDY."
+            },
+            {
+              "prompt": "Kdo uvařil ten výborný jahodový čaj ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "?",
+              "explanation": "Je to věta tázací.",
+              "hint": "Ptáme se pomocí tázacího slova KDO."
+            },
+            {
+              "prompt": "Co se stalo s tím starým dřevěným stolním kalendářem ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "?",
+              "explanation": "Je to věta tázací.",
+              "hint": "Ptáme se pomocí tázacího slova CO."
+            },
+            {
+              "prompt": "Kde jsi našel ten krásný bílý kamínek ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "?",
+              "explanation": "Je to věta tázací.",
+              "hint": "Ptáme se pomocí tázacího slova KDE."
+            },
+            {
+              "prompt": "Kam schovala kočka své malé kuličky ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "?",
+              "explanation": "Je to věta tázací.",
+              "hint": "Ptáme se pomocí tázacího slova KAM."
+            },
+            {
+              "prompt": "Máš v batohu zabalenou pláštěnku do deště ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "?",
+              "explanation": "Je to věta tázací.",
+              "hint": "Ptáme se, odpovědí je ANO nebo NE."
+            },
+            {
+              "prompt": "Ukliď si okamžitě všechny hračky z podlahy ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "!",
+              "explanation": "Je to věta rozkazovací.",
+              "hint": "Jedná se o jasný povel nebo pokyn."
+            },
+            {
+              "prompt": "Nesahej prosím na ten horký plech v troubě ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "!",
+              "explanation": "Je to věta rozkazovací.",
+              "hint": "Jedná se o důrazný zákaz."
+            },
+            {
+              "prompt": "Polož ten ostrý nůž ihned na stůl ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "!",
+              "explanation": "Je to věta rozkazovací.",
+              "hint": "Jedná se o jasný povel nebo pokyn."
+            },
+            {
+              "prompt": "Zavři pořádně okno kvůli silnému větru ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "!",
+              "explanation": "Je to věta rozkazovací.",
+              "hint": "Jedná se o pokyn nebo povel."
+            },
+            {
+              "prompt": "Nebehej po vlhké podlaze v koupelně ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "!",
+              "explanation": "Je to věta rozkazovací.",
+              "hint": "Jedná se o důrazný zákaz."
+            },
+            {
+              "prompt": "Podej mi ten velký žlutý hrnek na čaj ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "!",
+              "explanation": "Je to věta rozkazovací.",
+              "hint": "Jedná se o jasný povel nebo pokyn."
+            },
+            {
+              "prompt": "Posaď se ticho na svou židli v lavici ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "!",
+              "explanation": "Je to věta rozkazovací.",
+              "hint": "Jedná se o jasný pokyn."
+            },
+            {
+              "prompt": "Nejez ten špinavý spadlý jablečný koláč ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "!",
+              "explanation": "Je to věta rozkazovací.",
+              "hint": "Jedná se o důrazný zákaz."
+            },
+            {
+              "prompt": "Přines mi z chodby moje černé boty ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "!",
+              "explanation": "Je to věta rozkazovací.",
+              "hint": "Jedná se o povel nebo pokyn."
+            },
+            {
+              "prompt": "Dávej pozor při přecházení té rušné ulice ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "!",
+              "explanation": "Je to věta rozkazovací.",
+              "hint": "Jedná se o důrazný pokyn."
+            },
+            {
+              "prompt": "Nekřič tak hlasitě v této malé místnosti ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "!",
+              "explanation": "Je to věta rozkazovací.",
+              "hint": "Jedná se o důrazný zákaz."
+            },
+            {
+              "prompt": "Napiš své jméno pečlivě na první řádek ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "!",
+              "explanation": "Je to věta rozkazovací.",
+              "hint": "Jedná se o pokyn."
+            },
+            {
+              "prompt": "Otevři rychle dveře pro návštěvu ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "!",
+              "explanation": "Je to věta rozkazovací.",
+              "hint": "Jedná se o povel."
+            },
+            {
+              "prompt": "Umyj si ruce teplou vodou a mýdlem ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "!",
+              "explanation": "Je to věta rozkazovací.",
+              "hint": "Jedná se o jasný pokyn."
+            },
+            {
+              "prompt": "Ať už konečně vysvitne to teplé sluníčko ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "!",
+              "explanation": "Je to věta přací.",
+              "hint": "Vyjadřujeme přání, začíná slovem AŤ."
+            },
+            {
+              "prompt": "Kéž by zítra napadlo hodně bílého sněhu ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "!",
+              "explanation": "Je to věta přací.",
+              "hint": "Vyjadřujeme přání, začíná slovem KÉŽ."
+            },
+            {
+              "prompt": "Ať se ti dnes ve škole všechno dobře podaří ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "!",
+              "explanation": "Je to věta přací.",
+              "hint": "Vyjadřujeme přání, začíná slovem AŤ."
+            },
+            {
+              "prompt": "Kéž by náš fotbalový tým dnes vyhrál zápas ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "!",
+              "explanation": "Je to věta přací.",
+              "hint": "Vyjadřujeme přání, začíná slovem KÉŽ."
+            },
+            {
+              "prompt": "Ať je bratr brzy zdráv a plný síly ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "!",
+              "explanation": "Je to věta přací.",
+              "hint": "Vyjadřujeme přání, začíná slovem AŤ."
+            },
+            {
+              "prompt": "Kéž by tyto prázdniny trvaly celý rok ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "!",
+              "explanation": "Je to věta přací.",
+              "hint": "Vyjadřujeme přání, začíná slovem KÉŽ."
+            },
+            {
+              "prompt": "Ať nám pan učitel zruší zítřejší prověrku ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "!",
+              "explanation": "Je to věta přací.",
+              "hint": "Vyjadřujeme přání, začíná slovem AŤ."
+            },
+            {
+              "prompt": "Kéž bych dostal k narozeninám toho malého pejska ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "!",
+              "explanation": "Je to věta přací.",
+              "hint": "Vyjadřujeme přání, začíná slovem KÉŽ."
+            },
+            {
+              "prompt": "Ať se na nás babička nezlobí kvůli té váze ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "!",
+              "explanation": "Je to věta přací.",
+              "hint": "Vyjadřujeme přání, začíná slovem AŤ."
+            },
+            {
+              "prompt": "Kéž bychom už byli v cíli našeho dlouhého výletu ___",
+              "options": [
+                {
+                  "text": ".",
+                  "label": "Tečka"
+                },
+                {
+                  "text": "?",
+                  "label": "Otazník"
+                },
+                {
+                  "text": "!",
+                  "label": "Vykřičník"
+                }
+              ],
+              "answer": "!",
+              "explanation": "Je to věta přací.",
+              "hint": "Vyjadřujeme přání, začíná slovem KÉŽ."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "matematika",
+      "title": "Matematika",
+      "emoji": "🔢",
+      "color": "#059669",
+      "topics": [
+        {
+          "id": "scitani-do-20",
+          "title": "Sčítání a odčítání do 20",
+          "description": "Počítej příklady do dvaceti.",
+          "roundSize": 10,
+          "grading": true,
+          "questions": [
+            {
+              "prompt": "Kolik je 8 + 5?",
+              "options": [
+                {
+                  "text": "12"
+                },
+                {
+                  "text": "13"
+                },
+                {
+                  "text": "14"
+                }
+              ],
+              "answer": "13",
+              "explanation": "8 + 5 = 13.",
+              "hint": "Rozlož si to: 8 + 2 = 10 a pak 10 + 3 = 13."
+            },
+            {
+              "prompt": "Kolik je 17 − 9?",
+              "options": [
+                {
+                  "text": "7"
+                },
+                {
+                  "text": "8"
+                },
+                {
+                  "text": "9"
+                }
+              ],
+              "answer": "8",
+              "explanation": "17 − 9 = 8.",
+              "hint": "Od 17 odečti 7 (dostaneš 10) a pak ještě 2."
+            },
+            {
+              "prompt": "Kolik je 6 + 7?",
+              "options": [
+                {
+                  "text": "12"
+                },
+                {
+                  "text": "13"
+                },
+                {
+                  "text": "14"
+                }
+              ],
+              "answer": "13",
+              "explanation": "6 + 7 = 13.",
+              "hint": "6 + 4 = 10 a pak 10 + 3 = 13."
+            },
+            {
+              "prompt": "Kolik je 15 − 6?",
+              "options": [
+                {
+                  "text": "8"
+                },
+                {
+                  "text": "9"
+                },
+                {
+                  "text": "10"
+                }
+              ],
+              "answer": "9",
+              "explanation": "15 − 6 = 9.",
+              "hint": "Od 15 odečti 5 (dostaneš 10) a pak ještě 1."
+            },
+            {
+              "prompt": "Kolik je 9 + 9?",
+              "options": [
+                {
+                  "text": "17"
+                },
+                {
+                  "text": "18"
+                },
+                {
+                  "text": "19"
+                }
+              ],
+              "answer": "18",
+              "explanation": "9 + 9 = 18.",
+              "hint": "Dvě devítky jsou dohromady 18."
+            },
+            {
+              "prompt": "Kolik je 14 − 5?",
+              "options": [
+                {
+                  "text": "8"
+                },
+                {
+                  "text": "9"
+                },
+                {
+                  "text": "10"
+                }
+              ],
+              "answer": "9",
+              "explanation": "14 − 5 = 9.",
+              "hint": "Od 14 odečti 4 (dostaneš 10) a pak ještě 1."
+            },
+            {
+              "prompt": "Kolik je 7 + 8?",
+              "options": [
+                {
+                  "text": "14"
+                },
+                {
+                  "text": "15"
+                },
+                {
+                  "text": "16"
+                }
+              ],
+              "answer": "15",
+              "explanation": "7 + 8 = 15.",
+              "hint": "7 + 3 = 10 a pak 10 + 5 = 15."
+            },
+            {
+              "prompt": "Kolik je 20 − 4?",
+              "options": [
+                {
+                  "text": "15"
+                },
+                {
+                  "text": "16"
+                },
+                {
+                  "text": "17"
+                }
+              ],
+              "answer": "16",
+              "explanation": "20 − 4 = 16.",
+              "hint": "Od 20 odečti 4 a máš 16."
+            },
+            {
+              "prompt": "Kolik je 3 + 9?",
+              "options": [
+                {
+                  "text": "11"
+                },
+                {
+                  "text": "12"
+                },
+                {
+                  "text": "13"
+                }
+              ],
+              "answer": "12",
+              "explanation": "3 + 9 = 12.",
+              "hint": "9 + 1 = 10 a pak 10 + 2 = 12."
+            },
+            {
+              "prompt": "Kolik je 18 − 7?",
+              "options": [
+                {
+                  "text": "10"
+                },
+                {
+                  "text": "11"
+                },
+                {
+                  "text": "12"
+                }
+              ],
+              "answer": "11",
+              "explanation": "18 − 7 = 11.",
+              "hint": "Od 18 odečti 8 (dostaneš 10) a pak 1 vrať."
+            }
+          ]
+        },
+        {
+          "id": "mala-nasobilka",
+          "title": "Malá násobilka",
+          "description": "Procvič si násobilku od 1 do 10.",
+          "roundSize": 10,
+          "grading": true,
+          "questions": [
+            {
+              "prompt": "Kolik je 6 × 7?",
+              "options": [
+                {
+                  "text": "40"
+                },
+                {
+                  "text": "42"
+                },
+                {
+                  "text": "48"
+                }
+              ],
+              "answer": "42",
+              "explanation": "6 × 7 = 42.",
+              "hint": "Šest skupin po sedmi: 7 + 7 + 7 + 7 + 7 + 7 = 42."
+            },
+            {
+              "prompt": "Kolik je 8 × 4?",
+              "options": [
+                {
+                  "text": "28"
+                },
+                {
+                  "text": "32"
+                },
+                {
+                  "text": "36"
+                }
+              ],
+              "answer": "32",
+              "explanation": "8 × 4 = 32.",
+              "hint": "Čtyři skupiny po osmi: 8 + 8 + 8 + 8 = 32."
+            },
+            {
+              "prompt": "Kolik je 9 × 3?",
+              "options": [
+                {
+                  "text": "24"
+                },
+                {
+                  "text": "27"
+                },
+                {
+                  "text": "30"
+                }
+              ],
+              "answer": "27",
+              "explanation": "9 × 3 = 27.",
+              "hint": "Tři skupiny po devíti: 9 + 9 + 9 = 27."
+            },
+            {
+              "prompt": "Kolik je 5 × 6?",
+              "options": [
+                {
+                  "text": "25"
+                },
+                {
+                  "text": "30"
+                },
+                {
+                  "text": "35"
+                }
+              ],
+              "answer": "30",
+              "explanation": "5 × 6 = 30.",
+              "hint": "Pět skupin po šesti je 30."
+            },
+            {
+              "prompt": "Kolik je 7 × 8?",
+              "options": [
+                {
+                  "text": "54"
+                },
+                {
+                  "text": "56"
+                },
+                {
+                  "text": "64"
+                }
+              ],
+              "answer": "56",
+              "explanation": "7 × 8 = 56.",
+              "hint": "Sedm skupin po osmi: 8 + 8 + 8 + 8 + 8 + 8 + 8 = 56."
+            },
+            {
+              "prompt": "Kolik je 4 × 9?",
+              "options": [
+                {
+                  "text": "32"
+                },
+                {
+                  "text": "36"
+                },
+                {
+                  "text": "40"
+                }
+              ],
+              "answer": "36",
+              "explanation": "4 × 9 = 36.",
+              "hint": "Čtyři skupiny po devíti: 9 + 9 + 9 + 9 = 36."
+            },
+            {
+              "prompt": "Kolik je 3 × 7?",
+              "options": [
+                {
+                  "text": "18"
+                },
+                {
+                  "text": "21"
+                },
+                {
+                  "text": "24"
+                }
+              ],
+              "answer": "21",
+              "explanation": "3 × 7 = 21.",
+              "hint": "Tři skupiny po sedmi: 7 + 7 + 7 = 21."
+            },
+            {
+              "prompt": "Kolik je 6 × 6?",
+              "options": [
+                {
+                  "text": "30"
+                },
+                {
+                  "text": "36"
+                },
+                {
+                  "text": "42"
+                }
+              ],
+              "answer": "36",
+              "explanation": "6 × 6 = 36.",
+              "hint": "Šest skupin po šesti je 36."
+            },
+            {
+              "prompt": "Kolik je 8 × 8?",
+              "options": [
+                {
+                  "text": "56"
+                },
+                {
+                  "text": "64"
+                },
+                {
+                  "text": "72"
+                }
+              ],
+              "answer": "64",
+              "explanation": "8 × 8 = 64.",
+              "hint": "Osm skupin po osmi je 64."
+            },
+            {
+              "prompt": "Kolik je 9 × 9?",
+              "options": [
+                {
+                  "text": "72"
+                },
+                {
+                  "text": "81"
+                },
+                {
+                  "text": "90"
+                }
+              ],
+              "answer": "81",
+              "explanation": "9 × 9 = 81.",
+              "hint": "Devět skupin po devíti je 81."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "prvouka",
+      "title": "Prvouka",
+      "emoji": "🌿",
+      "color": "#D97706",
+      "topics": [
+        {
+          "id": "zvirata-priroda",
+          "title": "Zvířata a příroda",
+          "description": "Poznávej zvířata, rostliny a roční období.",
+          "roundSize": 10,
+          "grading": true,
+          "questions": [
+            {
+              "prompt": "Které zvíře má na těle černé a bílé pruhy?",
+              "options": [
+                {
+                  "text": "Zebra"
+                },
+                {
+                  "text": "Žirafa"
+                },
+                {
+                  "text": "Slon"
+                }
+              ],
+              "answer": "Zebra",
+              "explanation": "Zebra má výrazné černobílé pruhy.",
+              "hint": "Pruhy jí pomáhají splývat s okolím."
+            },
+            {
+              "prompt": "Kde žije velryba?",
+              "options": [
+                {
+                  "text": "V lese"
+                },
+                {
+                  "text": "V moři"
+                },
+                {
+                  "text": "V poušti"
+                }
+              ],
+              "answer": "V moři",
+              "explanation": "Velryba je mořský savec.",
+              "hint": "Dýchá vzduch, ale žije ve vodě."
+            },
+            {
+              "prompt": "Co potřebuje rostlina k růstu?",
+              "options": [
+                {
+                  "text": "Vodu a světlo"
+                },
+                {
+                  "text": "Jen tmu"
+                },
+                {
+                  "text": "Jen písek"
+                }
+              ],
+              "answer": "Vodu a světlo",
+              "explanation": "Rostlina potřebuje vodu, světlo a vzduch.",
+              "hint": "Bez světla většina rostlin neroste."
+            },
+            {
+              "prompt": "Které roční období přichází po jaru?",
+              "options": [
+                {
+                  "text": "Léto"
+                },
+                {
+                  "text": "Podzim"
+                },
+                {
+                  "text": "Zima"
+                }
+              ],
+              "answer": "Léto",
+              "explanation": "Po jaru přichází léto.",
+              "hint": "V létě bývá nejtepleji."
+            },
+            {
+              "prompt": "Kolik nohou má pavouk?",
+              "options": [
+                {
+                  "text": "6"
+                },
+                {
+                  "text": "8"
+                },
+                {
+                  "text": "10"
+                }
+              ],
+              "answer": "8",
+              "explanation": "Pavouk má osm nohou.",
+              "hint": "Hmyz má šest, pavouk osm."
+            },
+            {
+              "prompt": "Které zvíře umí létat?",
+              "options": [
+                {
+                  "text": "Netopýr"
+                },
+                {
+                  "text": "Ježek"
+                },
+                {
+                  "text": "Krtek"
+                }
+              ],
+              "answer": "Netopýr",
+              "explanation": "Netopýr je savec, který umí létat.",
+              "hint": "Létá v noci a orientuje se sluchem."
+            },
+            {
+              "prompt": "Co se vytváří v úlech?",
+              "options": [
+                {
+                  "text": "Mléko"
+                },
+                {
+                  "text": "Med"
+                },
+                {
+                  "text": "Vejce"
+                }
+              ],
+              "answer": "Med",
+              "explanation": "Včely vyrábějí med.",
+              "hint": "Med vzniká z nektaru květin."
+            },
+            {
+              "prompt": "Který strom má na podzim červené listy?",
+              "options": [
+                {
+                  "text": "Bříza"
+                },
+                {
+                  "text": "Javor"
+                },
+                {
+                  "text": "Smrk"
+                }
+              ],
+              "answer": "Javor",
+              "explanation": "Javor mění na podzim listy do červena.",
+              "hint": "Bříza má listy spíš žluté."
+            },
+            {
+              "prompt": "Kde žije tučňák?",
+              "options": [
+                {
+                  "text": "V Africe"
+                },
+                {
+                  "text": "V Antarktidě"
+                },
+                {
+                  "text": "V Evropě"
+                }
+              ],
+              "answer": "V Antarktidě",
+              "explanation": "Tučňáci žijí v chladných oblastech jižní polokoule.",
+              "hint": "Nejznámější jsou tučňáci v Antarktidě."
+            },
+            {
+              "prompt": "Čím dýchají ryby?",
+              "options": [
+                {
+                  "text": "Plícemi"
+                },
+                {
+                  "text": "Žábrami"
+                },
+                {
+                  "text": "Kůží"
+                }
+              ],
+              "answer": "Žábrami",
+              "explanation": "Ryby dýchají žábrami.",
+              "hint": "Žábry přijímají kyslík z vody."
+            }
+          ]
+        },
+        {
+          "id": "lidske-telo",
+          "title": "Lidské tělo",
+          "description": "Jak funguje naše tělo a k čemu jsou orgány.",
+          "roundSize": 10,
+          "grading": true,
+          "questions": [
+            {
+              "prompt": "Čím vnímáme zvuk?",
+              "options": [
+                {
+                  "text": "Očima"
+                },
+                {
+                  "text": "Ušima"
+                },
+                {
+                  "text": "Nosem"
+                }
+              ],
+              "answer": "Ušima",
+              "explanation": "Zvuk vnímáme ušima.",
+              "hint": "Ucho zachytí zvukové vlny."
+            },
+            {
+              "prompt": "Kolik má člověk prstů na jedné ruce?",
+              "options": [
+                {
+                  "text": "4"
+                },
+                {
+                  "text": "5"
+                },
+                {
+                  "text": "6"
+                }
+              ],
+              "answer": "5",
+              "explanation": "Na jedné ruce máme pět prstů."
+            },
+            {
+              "prompt": "Který orgán pumpuje krev?",
+              "options": [
+                {
+                  "text": "Srdce"
+                },
+                {
+                  "text": "Plíce"
+                },
+                {
+                  "text": "Žaludek"
+                }
+              ],
+              "answer": "Srdce",
+              "explanation": "Srdce rozvádí krev po těle.",
+              "hint": "Krev přináší kyslík a živiny."
+            },
+            {
+              "prompt": "Čím dýcháme?",
+              "options": [
+                {
+                  "text": "Plícemi"
+                },
+                {
+                  "text": "Žaludkem"
+                },
+                {
+                  "text": "Srdcem"
+                }
+              ],
+              "answer": "Plícemi",
+              "explanation": "Dýcháme plícemi.",
+              "hint": "Plíce přijímají kyslík ze vzduchu."
+            },
+            {
+              "prompt": "Kde trávíme potravu?",
+              "options": [
+                {
+                  "text": "V žaludku"
+                },
+                {
+                  "text": "V srdci"
+                },
+                {
+                  "text": "V plicích"
+                }
+              ],
+              "answer": "V žaludku",
+              "explanation": "Potrava se tráví v žaludku.",
+              "hint": "Trávení pokračuje ve střevech."
+            },
+            {
+              "prompt": "Čím ochutnáváme jídlo?",
+              "options": [
+                {
+                  "text": "Jazykem"
+                },
+                {
+                  "text": "Nosem"
+                },
+                {
+                  "text": "Ušima"
+                }
+              ],
+              "answer": "Jazykem",
+              "explanation": "Chuť vnímáme jazykem.",
+              "hint": "Na jazyku jsou chuťové pohárky."
+            },
+            {
+              "prompt": "Co chrání mozek?",
+              "options": [
+                {
+                  "text": "Lebka"
+                },
+                {
+                  "text": "Žebra"
+                },
+                {
+                  "text": "Pánev"
+                }
+              ],
+              "answer": "Lebka",
+              "explanation": "Mozek chrání lebka.",
+              "hint": "Lebka je pevná kostěná schránka."
+            },
+            {
+              "prompt": "Kolik zubů má dospělý člověk obvykle?",
+              "options": [
+                {
+                  "text": "20"
+                },
+                {
+                  "text": "28–32"
+                },
+                {
+                  "text": "40"
+                }
+              ],
+              "answer": "28–32",
+              "explanation": "Dospělý má obvykle 28 až 32 zubů.",
+              "hint": "Poslední zuby moudrosti mohou dorůst později."
+            },
+            {
+              "prompt": "Která část těla spojuje hlavu a trup?",
+              "options": [
+                {
+                  "text": "Krk"
+                },
+                {
+                  "text": "Loket"
+                },
+                {
+                  "text": "Koleno"
+                }
+              ],
+              "answer": "Krk",
+              "explanation": "Hlavu a trup spojuje krk."
+            },
+            {
+              "prompt": "Kolik hodin by měl školák přibližně spát?",
+              "options": [
+                {
+                  "text": "4–5"
+                },
+                {
+                  "text": "8–10"
+                },
+                {
+                  "text": "12–14"
+                }
+              ],
+              "answer": "8–10",
+              "explanation": "Školák by měl spát přibližně 8 až 10 hodin.",
+              "hint": "Dostatek spánku pomáhá učení i růstu."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "anglictina",
+      "title": "Angličtina",
+      "emoji": "🇬🇧",
+      "color": "#E11D48",
+      "topics": [
+        {
+          "id": "barvy-cisla",
+          "title": "Barvy a čísla",
+          "description": "Nauč se anglické barvy a čísla.",
+          "roundSize": 10,
+          "grading": true,
+          "questions": [
+            {
+              "prompt": "Jak se anglicky řekne „červená“?",
+              "options": [
+                {
+                  "text": "red"
+                },
+                {
+                  "text": "blue"
+                },
+                {
+                  "text": "green"
+                }
+              ],
+              "answer": "red",
+              "explanation": "Red znamená červená."
+            },
+            {
+              "prompt": "Jak se anglicky řekne „modrá“?",
+              "options": [
+                {
+                  "text": "blue"
+                },
+                {
+                  "text": "yellow"
+                },
+                {
+                  "text": "black"
+                }
+              ],
+              "answer": "blue",
+              "explanation": "Blue znamená modrá."
+            },
+            {
+              "prompt": "Jak se anglicky řekne „zelená“?",
+              "options": [
+                {
+                  "text": "green"
+                },
+                {
+                  "text": "red"
+                },
+                {
+                  "text": "white"
+                }
+              ],
+              "answer": "green",
+              "explanation": "Green znamená zelená."
+            },
+            {
+              "prompt": "Jak se anglicky řekne „žlutá“?",
+              "options": [
+                {
+                  "text": "yellow"
+                },
+                {
+                  "text": "blue"
+                },
+                {
+                  "text": "black"
+                }
+              ],
+              "answer": "yellow",
+              "explanation": "Yellow znamená žlutá."
+            },
+            {
+              "prompt": "Jak se anglicky řekne „černá“?",
+              "options": [
+                {
+                  "text": "black"
+                },
+                {
+                  "text": "white"
+                },
+                {
+                  "text": "red"
+                }
+              ],
+              "answer": "black",
+              "explanation": "Black znamená černá."
+            },
+            {
+              "prompt": "Jaké číslo je „five“?",
+              "options": [
+                {
+                  "text": "4"
+                },
+                {
+                  "text": "5"
+                },
+                {
+                  "text": "6"
+                }
+              ],
+              "answer": "5",
+              "explanation": "Five znamená pět."
+            },
+            {
+              "prompt": "Jaké číslo je „eight“?",
+              "options": [
+                {
+                  "text": "7"
+                },
+                {
+                  "text": "8"
+                },
+                {
+                  "text": "9"
+                }
+              ],
+              "answer": "8",
+              "explanation": "Eight znamená osm."
+            },
+            {
+              "prompt": "Jaké číslo je „ten“?",
+              "options": [
+                {
+                  "text": "9"
+                },
+                {
+                  "text": "10"
+                },
+                {
+                  "text": "11"
+                }
+              ],
+              "answer": "10",
+              "explanation": "Ten znamená deset."
+            },
+            {
+              "prompt": "Jak se anglicky řekne „jedna“?",
+              "options": [
+                {
+                  "text": "one"
+                },
+                {
+                  "text": "two"
+                },
+                {
+                  "text": "three"
+                }
+              ],
+              "answer": "one",
+              "explanation": "One znamená jedna."
+            },
+            {
+              "prompt": "Jak se anglicky řekne „tři“?",
+              "options": [
+                {
+                  "text": "three"
+                },
+                {
+                  "text": "five"
+                },
+                {
+                  "text": "seven"
+                }
+              ],
+              "answer": "three",
+              "explanation": "Three znamená tři."
+            }
+          ]
+        },
+        {
+          "id": "zvirata",
+          "title": "Zvířata",
+          "description": "Anglická slovíčka pro zvířata.",
+          "roundSize": 10,
+          "grading": true,
+          "questions": [
+            {
+              "prompt": "Jak se anglicky řekne „pes“?",
+              "options": [
+                {
+                  "text": "dog"
+                },
+                {
+                  "text": "cat"
+                },
+                {
+                  "text": "horse"
+                }
+              ],
+              "answer": "dog",
+              "explanation": "Dog znamená pes."
+            },
+            {
+              "prompt": "Co znamená „cat“?",
+              "options": [
+                {
+                  "text": "kočka"
+                },
+                {
+                  "text": "pes"
+                },
+                {
+                  "text": "myš"
+                }
+              ],
+              "answer": "kočka",
+              "explanation": "Cat znamená kočka."
+            },
+            {
+              "prompt": "Co znamená „horse“?",
+              "options": [
+                {
+                  "text": "kůň"
+                },
+                {
+                  "text": "kráva"
+                },
+                {
+                  "text": "ovce"
+                }
+              ],
+              "answer": "kůň",
+              "explanation": "Horse znamená kůň."
+            },
+            {
+              "prompt": "Jak se anglicky řekne „kočka“?",
+              "options": [
+                {
+                  "text": "cat"
+                },
+                {
+                  "text": "dog"
+                },
+                {
+                  "text": "bird"
+                }
+              ],
+              "answer": "cat",
+              "explanation": "Cat znamená kočka."
+            },
+            {
+              "prompt": "Co znamená „bird“?",
+              "options": [
+                {
+                  "text": "pták"
+                },
+                {
+                  "text": "ryba"
+                },
+                {
+                  "text": "žába"
+                }
+              ],
+              "answer": "pták",
+              "explanation": "Bird znamená pták."
+            },
+            {
+              "prompt": "Jak se anglicky řekne „ryba“?",
+              "options": [
+                {
+                  "text": "fish"
+                },
+                {
+                  "text": "mouse"
+                },
+                {
+                  "text": "rabbit"
+                }
+              ],
+              "answer": "fish",
+              "explanation": "Fish znamená ryba."
+            },
+            {
+              "prompt": "Co znamená „cow“?",
+              "options": [
+                {
+                  "text": "kráva"
+                },
+                {
+                  "text": "prase"
+                },
+                {
+                  "text": "koza"
+                }
+              ],
+              "answer": "kráva",
+              "explanation": "Cow znamená kráva."
+            },
+            {
+              "prompt": "Jak se anglicky řekne „myš“?",
+              "options": [
+                {
+                  "text": "mouse"
+                },
+                {
+                  "text": "horse"
+                },
+                {
+                  "text": "dog"
+                }
+              ],
+              "answer": "mouse",
+              "explanation": "Mouse znamená myš."
+            },
+            {
+              "prompt": "Co znamená „rabbit“?",
+              "options": [
+                {
+                  "text": "králík"
+                },
+                {
+                  "text": "liška"
+                },
+                {
+                  "text": "vlk"
+                }
+              ],
+              "answer": "králík",
+              "explanation": "Rabbit znamená králík."
+            },
+            {
+              "prompt": "Jak se anglicky řekne „kůň“?",
+              "options": [
+                {
+                  "text": "horse"
+                },
+                {
+                  "text": "cow"
+                },
+                {
+                  "text": "cat"
+                }
+              ],
+              "answer": "horse",
+              "explanation": "Horse znamená kůň."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
