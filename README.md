@@ -69,6 +69,8 @@ předmět → téma → otázky
 - `color` – barva karty ve formátu `#RRGGBB`.
 - `roundSize` – kolik otázek se vybere do jednoho kola (výchozí 10).
 - `grading` – `true` = na konci známka 1–5, `false` = jen body.
+- `grade` – třída 1–9, do které téma patří (výchozí 2).
+  Aktuální učivo je zařazené do 2. třídy.
 - `prompt` – zadání otázky.
 - `options` – 2 až 4 možnosti. `text` je povinný, `label` nepovinný
   (hodí se pro symboly, např. tečka/otazník/vykřičník).

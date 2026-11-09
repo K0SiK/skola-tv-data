@@ -2594,7 +2594,8 @@
               "explanation": "Je to věta přací.",
               "hint": "Vyjadřujeme přání, začíná slovem KÉŽ."
             }
-          ]
+          ],
+          "grade": 2
         }
       ]
     },
@@ -2782,7 +2783,8 @@
               "explanation": "18 − 7 = 11.",
               "hint": "Od 18 odečti 8 (dostaneš 10) a pak 1 vrať."
             }
-          ]
+          ],
+          "grade": 2
         },
         {
           "id": "mala-nasobilka",
@@ -2962,7 +2964,8 @@
               "explanation": "9 × 9 = 81.",
               "hint": "Devět skupin po devíti je 81."
             }
-          ]
+          ],
+          "grade": 2
         },
         {
           "id": "cary-a-linie",
@@ -3181,7 +3184,8 @@
               "explanation": "Přímá čára vede stále stejným směrem a nezahýbá se.",
               "hint": "Je rovná jako pravítko."
             }
-          ]
+          ],
+          "grade": 2
         },
         {
           "id": "geometricke-tvary",
@@ -3430,7 +3434,8 @@
               "explanation": "Kruh je kulatý a nemá žádné rohy ani strany.",
               "hint": "Je to jako kolo."
             }
-          ]
+          ],
+          "grade": 2
         },
         {
           "id": "slovni-ulohy",
@@ -3500,7 +3505,8 @@
               "explanation": "17 − 8 = 9. V košíku zůstalo 9 hub.",
               "hint": "Odeber osm hub a zjisti, kolik jich zbylo."
             }
-          ]
+          ],
+          "grade": 2
         },
         {
           "id": "ciselne-rady",
@@ -3570,7 +3576,8 @@
               "explanation": "Přičítáme vždy 2. Po 17 následuje 19.",
               "hint": "Přeskakuj vždy jedno číslo."
             }
-          ]
+          ],
+          "grade": 2
         },
         {
           "id": "doplnovani-prikladu",
@@ -3640,7 +3647,8 @@
               "explanation": "14 + 6 = 20. Chybějící číslo je 14.",
               "hint": "Od 20 odečti 6."
             }
-          ]
+          ],
+          "grade": 2
         }
       ]
     },
@@ -3827,7 +3835,8 @@
               "explanation": "Ryby dýchají žábrami.",
               "hint": "Žábry přijímají kyslík z vody."
             }
-          ]
+          ],
+          "grade": 2
         },
         {
           "id": "lidske-telo",
@@ -4004,7 +4013,8 @@
               "explanation": "Školák by měl spát přibližně 8 až 10 hodin.",
               "hint": "Dostatek spánku pomáhá učení i růstu."
             }
-          ]
+          ],
+          "grade": 2
         }
       ]
     },
@@ -4181,7 +4191,8 @@
               "answer": "three",
               "explanation": "Three znamená tři."
             }
-          ]
+          ],
+          "grade": 2
         },
         {
           "id": "zvirata",
@@ -4350,7 +4361,8 @@
               "answer": "horse",
               "explanation": "Horse znamená kůň."
             }
-          ]
+          ],
+          "grade": 2
         }
       ]
     }
