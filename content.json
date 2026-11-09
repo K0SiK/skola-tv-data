@@ -3431,6 +3431,146 @@
               "hint": "Je to jako kolo."
             }
           ]
+        },
+        {
+          "id": "slovni-ulohy",
+          "title": "Slovní úlohy",
+          "description": "Přečti úlohu a napiš správný počet.",
+          "roundSize": 10,
+          "grading": true,
+          "input": "number",
+          "questions": [
+            {
+              "prompt": "Miky v obchodě koupil 9 rohlíků. Doma měli ještě 5 rohlíků. Kolik rohlíků doma teď mají?",
+              "answer": "14",
+              "explanation": "9 + 5 = 14. Doma mají 14 rohlíků.",
+              "hint": "Sečti rohlíky, které Miky koupil, a ty, co už doma měli."
+            },
+            {
+              "prompt": "Anička měla 12 jablek. 4 jablka snědla. Kolik jablek jí zbylo?",
+              "answer": "8",
+              "explanation": "12 − 4 = 8. Aničce zbylo 8 jablek.",
+              "hint": "Od dvanácti odečti čtyři."
+            },
+            {
+              "prompt": "Na stromě sedělo 7 vrabců. Přiletěli další 4 vrabci. Kolik vrabců je na stromě teď?",
+              "answer": "11",
+              "explanation": "7 + 4 = 11. Na stromě je 11 vrabců.",
+              "hint": "Přiletěli další, takže čísla sečteš."
+            },
+            {
+              "prompt": "Pepa měl 15 kuliček. 6 kuliček ztratil. Kolik kuliček mu zbylo?",
+              "answer": "9",
+              "explanation": "15 − 6 = 9. Pepovi zbylo 9 kuliček.",
+              "hint": "Když něco ztratí, počet se zmenší. Odečítej."
+            },
+            {
+              "prompt": "Maminka koupila 8 banánů a 6 pomerančů. Kolik kusů ovoce koupila celkem?",
+              "answer": "14",
+              "explanation": "8 + 6 = 14. Maminka koupila 14 kusů ovoce.",
+              "hint": "Sečti banány a pomeranče dohromady."
+            },
+            {
+              "prompt": "Ve třídě bylo 18 dětí. 5 dětí odešlo do družiny. Kolik dětí zůstalo ve třídě?",
+              "answer": "13",
+              "explanation": "18 − 5 = 13. Ve třídě zůstalo 13 dětí.",
+              "hint": "Odešlo pět dětí, takže od osmnácti odečti pět."
+            },
+            {
+              "prompt": "Tatínek natrhal 9 jahod. Miky natrhal 7 jahod. Kolik jahod natrhali dohromady?",
+              "answer": "16",
+              "explanation": "9 + 7 = 16. Dohromady natrhali 16 jahod.",
+              "hint": "Dohromady znamená sečíst oba počty."
+            },
+            {
+              "prompt": "Na parkovišti stálo 13 aut. 4 auta odjela. Kolik aut tam zůstalo?",
+              "answer": "9",
+              "explanation": "13 − 4 = 9. Na parkovišti zůstalo 9 aut.",
+              "hint": "Aut ubylo, proto odečítej."
+            },
+            {
+              "prompt": "Lucka má 6 červených a 8 modrých korálků. Kolik korálků má celkem?",
+              "answer": "14",
+              "explanation": "6 + 8 = 14. Lucka má celkem 14 korálků.",
+              "hint": "Sečti červené a modré korálky."
+            },
+            {
+              "prompt": "V košíku bylo 17 hub. 8 hub jsme dali do polévky. Kolik hub zůstalo v košíku?",
+              "answer": "9",
+              "explanation": "17 − 8 = 9. V košíku zůstalo 9 hub.",
+              "hint": "Odeber osm hub a zjisti, kolik jich zbylo."
+            }
+          ]
+        },
+        {
+          "id": "ciselne-rady",
+          "title": "Číselné řady 0–20",
+          "description": "Najdi, jak číselná řada pokračuje.",
+          "roundSize": 10,
+          "grading": true,
+          "input": "number",
+          "questions": [
+            {
+              "prompt": "Pokračuj v řadě: 0, 2, 4, 6, ___",
+              "answer": "8",
+              "explanation": "Přičítáme vždy 2. Po 6 následuje 8.",
+              "hint": "Čísla rostou o dva."
+            },
+            {
+              "prompt": "Jaké číslo patří na konec řady? 1, 3, 5, 7, ___",
+              "answer": "9",
+              "explanation": "Přičítáme vždy 2. Po 7 následuje 9.",
+              "hint": "Přeskakujeme vždy jedno číslo."
+            },
+            {
+              "prompt": "Doplň další číslo: 10, 9, 8, 7, ___",
+              "answer": "6",
+              "explanation": "Čísla se zmenšují vždy o 1. Po 7 následuje 6.",
+              "hint": "Řada jde dolů po jednom."
+            },
+            {
+              "prompt": "Pokračuj v řadě: 5, 10, 15, ___",
+              "answer": "20",
+              "explanation": "Přičítáme vždy 5. Po 15 následuje 20.",
+              "hint": "Počítej po pěti."
+            },
+            {
+              "prompt": "Jaké číslo následuje? 20, 18, 16, 14, ___",
+              "answer": "12",
+              "explanation": "Čísla se zmenšují vždy o 2. Po 14 následuje 12.",
+              "hint": "Jdeme zpět po dvou."
+            },
+            {
+              "prompt": "Doplň řadu: 0, 5, 10, 15, ___",
+              "answer": "20",
+              "explanation": "Přičítáme vždy 5. Po 15 následuje 20.",
+              "hint": "Začni na nule a přičti pět."
+            },
+            {
+              "prompt": "Pokračuj v řadě: 3, 6, 9, 12, ___",
+              "answer": "15",
+              "explanation": "Přičítáme vždy 3. Po 12 následuje 15.",
+              "hint": "Každé číslo je o tři větší."
+            },
+            {
+              "prompt": "Jaké číslo patří místo otazníku? 16, 14, 12, ___, 8",
+              "answer": "10",
+              "explanation": "Čísla se zmenšují vždy o 2. Mezi 12 a 8 patří 10.",
+              "hint": "Mezi 12 a 8 chybí jedno sudé číslo."
+            },
+            {
+              "prompt": "Doplň další číslo: 1, 2, 3, 4, 5, ___",
+              "answer": "6",
+              "explanation": "Přičítáme vždy 1. Po 5 následuje 6.",
+              "hint": "Počítej po jednom."
+            },
+            {
+              "prompt": "Pokračuj v řadě: 11, 13, 15, 17, ___",
+              "answer": "19",
+              "explanation": "Přičítáme vždy 2. Po 17 následuje 19.",
+              "hint": "Přeskakuj vždy jedno číslo."
+            }
+          ]
         }
       ]
     },
