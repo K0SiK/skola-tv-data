@@ -3571,6 +3571,76 @@
               "hint": "Přeskakuj vždy jedno číslo."
             }
           ]
+        },
+        {
+          "id": "doplnovani-prikladu",
+          "title": "Doplňování příkladů",
+          "description": "Doplň chybějící číslo do příkladu.",
+          "roundSize": 10,
+          "grading": true,
+          "input": "number",
+          "questions": [
+            {
+              "prompt": "Doplň číslo: 11 + ___ = 15",
+              "answer": "4",
+              "explanation": "11 + 4 = 15. Chybějící číslo je 4.",
+              "hint": "Od 15 odečti 11."
+            },
+            {
+              "prompt": "Doplň číslo: 7 + ___ = 12",
+              "answer": "5",
+              "explanation": "7 + 5 = 12. Chybějící číslo je 5.",
+              "hint": "Od 12 odečti 7."
+            },
+            {
+              "prompt": "Doplň číslo: 15 − ___ = 9",
+              "answer": "6",
+              "explanation": "15 − 6 = 9. Chybějící číslo je 6.",
+              "hint": "Od 15 odečti 9."
+            },
+            {
+              "prompt": "Doplň číslo: ___ + 8 = 14",
+              "answer": "6",
+              "explanation": "6 + 8 = 14. Chybějící číslo je 6.",
+              "hint": "Od 14 odečti 8."
+            },
+            {
+              "prompt": "Doplň číslo: 6 + ___ = 13",
+              "answer": "7",
+              "explanation": "6 + 7 = 13. Chybějící číslo je 7.",
+              "hint": "Od 13 odečti 6."
+            },
+            {
+              "prompt": "Doplň číslo: 18 − ___ = 11",
+              "answer": "7",
+              "explanation": "18 − 7 = 11. Chybějící číslo je 7.",
+              "hint": "Od 18 odečti 11."
+            },
+            {
+              "prompt": "Doplň číslo: ___ − 5 = 8",
+              "answer": "13",
+              "explanation": "13 − 5 = 8. Chybějící číslo je 13.",
+              "hint": "K výsledku přičti 5."
+            },
+            {
+              "prompt": "Doplň číslo: 9 + ___ = 17",
+              "answer": "8",
+              "explanation": "9 + 8 = 17. Chybějící číslo je 8.",
+              "hint": "Od 17 odečti 9."
+            },
+            {
+              "prompt": "Doplň číslo: 12 − ___ = 4",
+              "answer": "8",
+              "explanation": "12 − 8 = 4. Chybějící číslo je 8.",
+              "hint": "Od 12 odečti 4."
+            },
+            {
+              "prompt": "Doplň číslo: ___ + 6 = 20",
+              "answer": "14",
+              "explanation": "14 + 6 = 20. Chybějící číslo je 14.",
+              "hint": "Od 20 odečti 6."
+            }
+          ]
         }
       ]
     },
