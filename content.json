@@ -2610,6 +2610,7 @@
           "description": "Počítej příklady do dvaceti.",
           "roundSize": 10,
           "grading": true,
+          "input": "number",
           "questions": [
             {
               "prompt": "Kolik je 8 + 5?",
@@ -2789,6 +2790,7 @@
           "description": "Procvič si násobilku od 1 do 10.",
           "roundSize": 10,
           "grading": true,
+          "input": "number",
           "questions": [
             {
               "prompt": "Kolik je 6 × 7?",
@@ -2959,6 +2961,474 @@
               "answer": "81",
               "explanation": "9 × 9 = 81.",
               "hint": "Devět skupin po devíti je 81."
+            }
+          ]
+        },
+        {
+          "id": "cary-a-linie",
+          "title": "Čáry a linie",
+          "description": "Rozpoznej přímou, lomenou a křivou čáru.",
+          "roundSize": 10,
+          "grading": true,
+          "questions": [
+            {
+              "prompt": "Jak se nazývá čára na obrázku?",
+              "draw": {
+                "type": "line",
+                "style": "straight"
+              },
+              "options": [
+                {
+                  "text": "Přímá"
+                },
+                {
+                  "text": "Lomená"
+                },
+                {
+                  "text": "Křivá"
+                }
+              ],
+              "answer": "Přímá",
+              "explanation": "Přímá čára vede stále stejným směrem a nezahýbá se.",
+              "hint": "Je rovná jako pravítko."
+            },
+            {
+              "prompt": "Která čára je na obrázku?",
+              "draw": {
+                "type": "line",
+                "style": "broken"
+              },
+              "options": [
+                {
+                  "text": "Křivá"
+                },
+                {
+                  "text": "Přímá"
+                },
+                {
+                  "text": "Lomená"
+                }
+              ],
+              "answer": "Lomená",
+              "explanation": "Lomená čára se skládá z rovných částí, které se lámou.",
+              "hint": "Vypadá jako několik rovných čar spojených dohromady."
+            },
+            {
+              "prompt": "Poznáš tento typ čáry?",
+              "draw": {
+                "type": "line",
+                "style": "curve"
+              },
+              "options": [
+                {
+                  "text": "Lomená"
+                },
+                {
+                  "text": "Křivá"
+                },
+                {
+                  "text": "Přímá"
+                }
+              ],
+              "answer": "Křivá",
+              "explanation": "Křivá čára se plynule vlní a není rovná.",
+              "hint": "Nemá žádné ostré rohy."
+            },
+            {
+              "prompt": "Jaká čára je nakreslená?",
+              "draw": {
+                "type": "line",
+                "style": "straight"
+              },
+              "options": [
+                {
+                  "text": "Křivá"
+                },
+                {
+                  "text": "Lomená"
+                },
+                {
+                  "text": "Přímá"
+                }
+              ],
+              "answer": "Přímá",
+              "explanation": "Přímá čára vede stále stejným směrem a nezahýbá se.",
+              "hint": "Je rovná jako pravítko."
+            },
+            {
+              "prompt": "Vyber správný název pro čáru na obrázku.",
+              "draw": {
+                "type": "line",
+                "style": "broken"
+              },
+              "options": [
+                {
+                  "text": "Lomená"
+                },
+                {
+                  "text": "Křivá"
+                },
+                {
+                  "text": "Přímá"
+                }
+              ],
+              "answer": "Lomená",
+              "explanation": "Lomená čára se skládá z rovných částí, které se lámou.",
+              "hint": "Vypadá jako několik rovných čar spojených dohromady."
+            },
+            {
+              "prompt": "Který název patří k této čáře?",
+              "draw": {
+                "type": "line",
+                "style": "curve"
+              },
+              "options": [
+                {
+                  "text": "Přímá"
+                },
+                {
+                  "text": "Křivá"
+                },
+                {
+                  "text": "Lomená"
+                }
+              ],
+              "answer": "Křivá",
+              "explanation": "Křivá čára se plynule vlní a není rovná.",
+              "hint": "Nemá žádné ostré rohy."
+            },
+            {
+              "prompt": "Je to čára přímá, lomená, nebo křivá?",
+              "draw": {
+                "type": "line",
+                "style": "straight"
+              },
+              "options": [
+                {
+                  "text": "Přímá"
+                },
+                {
+                  "text": "Křivá"
+                },
+                {
+                  "text": "Lomená"
+                }
+              ],
+              "answer": "Přímá",
+              "explanation": "Přímá čára vede stále stejným směrem a nezahýbá se.",
+              "hint": "Je rovná jako pravítko."
+            },
+            {
+              "prompt": "Jak bys tuto čáru pojmenoval?",
+              "draw": {
+                "type": "line",
+                "style": "broken"
+              },
+              "options": [
+                {
+                  "text": "Křivá"
+                },
+                {
+                  "text": "Lomená"
+                },
+                {
+                  "text": "Přímá"
+                }
+              ],
+              "answer": "Lomená",
+              "explanation": "Lomená čára se skládá z rovných částí, které se lámou.",
+              "hint": "Vypadá jako několik rovných čar spojených dohromady."
+            },
+            {
+              "prompt": "Která možnost odpovídá obrázku?",
+              "draw": {
+                "type": "line",
+                "style": "curve"
+              },
+              "options": [
+                {
+                  "text": "Lomená"
+                },
+                {
+                  "text": "Přímá"
+                },
+                {
+                  "text": "Křivá"
+                }
+              ],
+              "answer": "Křivá",
+              "explanation": "Křivá čára se plynule vlní a není rovná.",
+              "hint": "Nemá žádné ostré rohy."
+            },
+            {
+              "prompt": "Jaký typ čáry vidíš?",
+              "draw": {
+                "type": "line",
+                "style": "straight"
+              },
+              "options": [
+                {
+                  "text": "Křivá"
+                },
+                {
+                  "text": "Přímá"
+                },
+                {
+                  "text": "Lomená"
+                }
+              ],
+              "answer": "Přímá",
+              "explanation": "Přímá čára vede stále stejným směrem a nezahýbá se.",
+              "hint": "Je rovná jako pravítko."
+            }
+          ]
+        },
+        {
+          "id": "geometricke-tvary",
+          "title": "Geometrické tvary",
+          "description": "Poznej čtverec, kruh, trojúhelník a obdélník.",
+          "roundSize": 10,
+          "grading": true,
+          "questions": [
+            {
+              "prompt": "Jaký geometrický tvar je na obrázku?",
+              "draw": {
+                "type": "shape",
+                "shape": "square"
+              },
+              "options": [
+                {
+                  "text": "Čtverec"
+                },
+                {
+                  "text": "Kruh"
+                },
+                {
+                  "text": "Trojúhelník"
+                },
+                {
+                  "text": "Obdélník"
+                }
+              ],
+              "answer": "Čtverec",
+              "explanation": "Čtverec má čtyři stejně dlouhé strany a čtyři pravé úhly.",
+              "hint": "Všechny čtyři strany jsou stejně dlouhé."
+            },
+            {
+              "prompt": "Který tvar vidíš na obrázku?",
+              "draw": {
+                "type": "shape",
+                "shape": "circle"
+              },
+              "options": [
+                {
+                  "text": "Trojúhelník"
+                },
+                {
+                  "text": "Kruh"
+                },
+                {
+                  "text": "Obdélník"
+                },
+                {
+                  "text": "Čtverec"
+                }
+              ],
+              "answer": "Kruh",
+              "explanation": "Kruh je kulatý a nemá žádné rohy ani strany.",
+              "hint": "Je to jako kolo."
+            },
+            {
+              "prompt": "Jak se jmenuje tento tvar?",
+              "draw": {
+                "type": "shape",
+                "shape": "triangle"
+              },
+              "options": [
+                {
+                  "text": "Obdélník"
+                },
+                {
+                  "text": "Čtverec"
+                },
+                {
+                  "text": "Trojúhelník"
+                },
+                {
+                  "text": "Kruh"
+                }
+              ],
+              "answer": "Trojúhelník",
+              "explanation": "Trojúhelník má tři strany a tři vrcholy.",
+              "hint": "Spočítej jeho špičky: jsou tři."
+            },
+            {
+              "prompt": "Poznej tvar: který to je?",
+              "draw": {
+                "type": "shape",
+                "shape": "rectangle"
+              },
+              "options": [
+                {
+                  "text": "Kruh"
+                },
+                {
+                  "text": "Obdélník"
+                },
+                {
+                  "text": "Trojúhelník"
+                },
+                {
+                  "text": "Čtverec"
+                }
+              ],
+              "answer": "Obdélník",
+              "explanation": "Obdélník má čtyři strany a čtyři pravé úhly. Protilehlé strany jsou stejně dlouhé.",
+              "hint": "Je delší než čtverec."
+            },
+            {
+              "prompt": "Jaký tvar je nakreslený?",
+              "draw": {
+                "type": "shape",
+                "shape": "square"
+              },
+              "options": [
+                {
+                  "text": "Trojúhelník"
+                },
+                {
+                  "text": "Obdélník"
+                },
+                {
+                  "text": "Čtverec"
+                },
+                {
+                  "text": "Kruh"
+                }
+              ],
+              "answer": "Čtverec",
+              "explanation": "Čtverec má čtyři stejně dlouhé strany a čtyři pravé úhly.",
+              "hint": "Všechny čtyři strany jsou stejně dlouhé."
+            },
+            {
+              "prompt": "Vyber správný název tvaru.",
+              "draw": {
+                "type": "shape",
+                "shape": "circle"
+              },
+              "options": [
+                {
+                  "text": "Kruh"
+                },
+                {
+                  "text": "Čtverec"
+                },
+                {
+                  "text": "Trojúhelník"
+                },
+                {
+                  "text": "Obdélník"
+                }
+              ],
+              "answer": "Kruh",
+              "explanation": "Kruh je kulatý a nemá žádné rohy ani strany.",
+              "hint": "Je to jako kolo."
+            },
+            {
+              "prompt": "Který název patří k obrázku?",
+              "draw": {
+                "type": "shape",
+                "shape": "triangle"
+              },
+              "options": [
+                {
+                  "text": "Čtverec"
+                },
+                {
+                  "text": "Trojúhelník"
+                },
+                {
+                  "text": "Kruh"
+                },
+                {
+                  "text": "Obdélník"
+                }
+              ],
+              "answer": "Trojúhelník",
+              "explanation": "Trojúhelník má tři strany a tři vrcholy.",
+              "hint": "Spočítej jeho špičky: jsou tři."
+            },
+            {
+              "prompt": "Jaký geometrický tvar vidíš?",
+              "draw": {
+                "type": "shape",
+                "shape": "rectangle"
+              },
+              "options": [
+                {
+                  "text": "Obdélník"
+                },
+                {
+                  "text": "Kruh"
+                },
+                {
+                  "text": "Trojúhelník"
+                },
+                {
+                  "text": "Čtverec"
+                }
+              ],
+              "answer": "Obdélník",
+              "explanation": "Obdélník má čtyři strany a čtyři pravé úhly. Protilehlé strany jsou stejně dlouhé.",
+              "hint": "Je delší než čtverec."
+            },
+            {
+              "prompt": "Poznáš tento geometrický tvar?",
+              "draw": {
+                "type": "shape",
+                "shape": "square"
+              },
+              "options": [
+                {
+                  "text": "Čtverec"
+                },
+                {
+                  "text": "Trojúhelník"
+                },
+                {
+                  "text": "Obdélník"
+                },
+                {
+                  "text": "Kruh"
+                }
+              ],
+              "answer": "Čtverec",
+              "explanation": "Čtverec má čtyři stejně dlouhé strany a čtyři pravé úhly.",
+              "hint": "Všechny čtyři strany jsou stejně dlouhé."
+            },
+            {
+              "prompt": "Který tvar odpovídá obrázku?",
+              "draw": {
+                "type": "shape",
+                "shape": "circle"
+              },
+              "options": [
+                {
+                  "text": "Trojúhelník"
+                },
+                {
+                  "text": "Kruh"
+                },
+                {
+                  "text": "Čtverec"
+                },
+                {
+                  "text": "Obdélník"
+                }
+              ],
+              "answer": "Kruh",
+              "explanation": "Kruh je kulatý a nemá žádné rohy ani strany.",
+              "hint": "Je to jako kolo."
             }
           ]
         }

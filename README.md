@@ -19,7 +19,9 @@ předmět → téma → otázky
 
 - **Předmět** má název, emoji a barvu.
 - **Téma** má název, popis, velikost kola, volbu známkování a otázky.
-- **Otázka** má zadání, 2–4 možnosti, správnou odpověď a vysvětlení.
+- **Otázka** má zadání, správnou odpověď a vysvětlení. Odpovídat lze
+  výběrem ze 2–4 možností, nebo napsáním čísla na klávesnici.
+- **Obrázek** lze k otázce přidat polem `draw` (čáry a geometrické tvary).
 
 ## Formát
 
@@ -73,6 +75,12 @@ předmět → téma → otázky
 - `answer` – musí přesně odpovídat textu jedné z možností.
 - `explanation` – krátké vysvětlení správné odpovědi.
 - `hint` – nepovinná pomůcka.
+- `input` – nepovinné. `number` zobrazí číselnou klávesnici místo
+  možností (u matematických příkladů); `choice` vynutí výběr z možností.
+- `draw` – nepovinný nakreslený obrázek. Pro čáru
+  `{ "type": "line", "style": "straight" }` (dále `broken`, `curve`),
+  pro tvar `{ "type": "shape", "shape": "square" }` (dále `circle`,
+  `triangle`, `rectangle`, `oval`).
 
 Aplikace si pamatuje použité otázky, takže se neopakují, dokud se
 nevystřídá celá zásoba daného tématu.
